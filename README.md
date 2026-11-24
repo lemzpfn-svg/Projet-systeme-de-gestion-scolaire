@@ -4,7 +4,7 @@ Projet base de données de la prépa intégrée CESI × ISJA (Dakar, 2026-2027),
 
 Une école rurale de trois classes gérait ses élèves, ses notes et ses emplois du temps dans des documents séparés. Nous avons conçu son système d'information avec MERISE, créé la base en SQL, puis l'avons fait évoluer pour accueillir les spécialités. Une preuve de concept montre ensuite comment l'IA peut aider la direction à repérer les élèves en difficulté.
 
-Page de présentation : https://a-diacksn.github.io/Projet-systeme-de-gestion-scolaire/
+Page de présentation : https://github.com/lemzpfn-svg/Projet-systeme-de-gestion-scolaire
 
 ## Démarche
 
