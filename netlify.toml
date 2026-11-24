@@ -1,0 +1,4 @@
+# Static site: the presentation page lives in docs/ (plain HTML + images, no build step).
+[build]
+  publish = "docs"
+  command = ""
